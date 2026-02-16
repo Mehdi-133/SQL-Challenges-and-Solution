@@ -1,0 +1,1 @@
+select count(CustomerID) as  total_customer from customers ;

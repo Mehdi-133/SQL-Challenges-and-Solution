@@ -1,0 +1,1 @@
+select  Country from customers group by Country order by Country;
