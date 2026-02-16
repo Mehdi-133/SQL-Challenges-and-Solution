@@ -1,0 +1,1 @@
+select  FirstName ,  LastName , concat(FirstName , ' ' , LastName) as FullName from employees;

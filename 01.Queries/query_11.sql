@@ -1,0 +1,1 @@
+select  FirstName , LastName , Title , DATE(BirthDate)  as DateOnlyBirthDate  from employees ;

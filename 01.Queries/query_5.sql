@@ -1,0 +1,1 @@
+SELECT OrderID , OrderDate  FROM  orders where EmployeeID = 5;

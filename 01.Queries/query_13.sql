@@ -1,0 +1,1 @@
+select OrderID , ProductID , UnitPrice , Quantity  , UnitPrice * Quantity as total_price from orderdetails order by OrderID and ProductID;

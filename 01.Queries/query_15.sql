@@ -1,0 +1,1 @@
+select OrderDate as FirstOrder  from orders order by OrderDate limit  1 ;
